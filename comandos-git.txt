@@ -1,0 +1,10 @@
+PRINCIPAIS COMANDOS GIT - ORDEM DE USO
+
+1. git status - Verifica o estado dos arquivos
+2. git add - Adiciona arquivos ao stage
+3. git commit - Registra alterações no histórico
+4. git push - Envia commits para repositório remoto
+5. git checkout - Muda de branch ou restaura arquivos
+6. git merge - Mescla branches
+7. git pull - Baixa e integra alterações do remoto
+8. git remote - Gerencia repositórios remotos
